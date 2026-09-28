@@ -148,7 +148,6 @@ margin: 0 auto;
   accent-color: var(--color-brand);
 }
 
-
 footer {
   margin-left: 315px;
   margin-top: 2rem;
@@ -181,6 +180,7 @@ footer #description.show-result {
 
 
 @media (max-width: 768px) {
+
   body {
     width: 100%;
     margin:0 auto;
@@ -190,8 +190,8 @@ footer #description.show-result {
     margin: 0;
     padding: 2rem;
   }
-  
 
+ 
   #header .header-content {
     margin: 0;
 }
@@ -220,7 +220,7 @@ footer {
 }
 
 #market .items {
-  margin: auto;
+  margin: 0 auto;
  height: 3.5625rem;
   width: 20.4375rem; 
 }
